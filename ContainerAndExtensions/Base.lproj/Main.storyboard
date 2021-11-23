@@ -65,6 +65,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="403"/>
                             </imageView>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="bxS-iQ-BJa"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstAttribute="trailingMargin" secondItem="YgT-cn-T96" secondAttribute="trailing" constant="-20" id="RLX-wS-QxH"/>
